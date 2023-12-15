@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zbn/IardYxWfd8dhVQr65G6kWn4lv/YYc1L3u3KZyG75u3D/6iY4z2/643NTHq7FUIHqAqOjujrcoyQcjTCYrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zeinab\\Downloads\\Final-LAB\\Starter\\Web\\Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeinab\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
